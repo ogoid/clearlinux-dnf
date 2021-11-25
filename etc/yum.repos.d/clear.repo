@@ -1,0 +1,4 @@
+[clear]
+name=clear
+baseurl=https://cdn.download.clearlinux.org/releases/current/clear/x86_64/os/
+enabled=0

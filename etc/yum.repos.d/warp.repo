@@ -1,0 +1,4 @@
+[cloudflare-warp]
+name=cloudflare-warp
+baseurl=https://pkg.cloudflareclient.com/dists/8/main/binary-x86_64/
+enabled=1

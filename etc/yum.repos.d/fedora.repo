@@ -1,0 +1,8 @@
+[rawhide]
+name=rawhide
+baseurl=https://dl.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/x86_64/os/
+#metalink=https://mirrors.fedoraproject.org/mirrorlist?repo=fedora-rawhide&arch=x86_64
+enabled=0
+
+# disabled by default, install individual required packages by explicitly
+# providing `--repo rawhide` argument to dnf.

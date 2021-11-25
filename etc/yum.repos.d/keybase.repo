@@ -1,0 +1,7 @@
+[keybase]
+name=keybase
+enabled=1
+baseurl=http://prerelease.keybase.io/rpm/x86_64
+gpgcheck=1
+gpgkey=https://keybase.io/docs/server_security/code_signing_key.asc
+
